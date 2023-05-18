@@ -4,5 +4,5 @@ import locacion.*
 
 class CentroDeDistribucion {
 	
-	
+	fruta fruta
 }

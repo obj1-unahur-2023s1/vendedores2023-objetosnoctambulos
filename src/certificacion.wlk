@@ -1,4 +1,4 @@
 class Certificacion {
 	var property puntos
-	var property tipo
+	const property esProducto
 }

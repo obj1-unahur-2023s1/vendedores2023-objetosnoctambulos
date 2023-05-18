@@ -1,5 +1,5 @@
 class Ciudad {
-	var property provincia
+	const property provincia
 }
 
 class Provincia{
